@@ -6,5 +6,6 @@ class wjh{
         System.out.print("okn ");
         System.out.print(ktr);
         System.out.println(" ok");
+        System.out.print("new line");
     }
 }
