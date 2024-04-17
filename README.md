@@ -1,4 +1,4 @@
-# learning_series
-java c c++ c# 
+ https://crepe.moe/KOdpDNYc
 
-fked up my classes starting again from scratch becuz why not 
+ 
+https://crepe.moe/y2lqNyvd
