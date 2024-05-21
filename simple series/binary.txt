@@ -1,0 +1,50 @@
+binary is simple take it as 
+1
+10
+11
+100
+
+1 = 0001 = 1th place
+2 = 0010 = 2nd place
+3 = 0011 = 3rd
+4 = 0100 = 4th
+5 = 0101
+6 = 0110
+7 = 0111
+8 = 1000
+9 = 1001
+10= 1010
+11= 1011
+12= 1100 same goes from inside donot put the value in front check inside as 1011 to 1100 not 1011 to 10000 as we can fit 100 inside 1011 as 1100 
+13= 1101
+14= 1110
+15= 1111
+16= 10000 as there is no place to put 100
+now to find any bunary value of decimal use 10 100 rule
+ for eg find 32
+ 
+ 
+ to find 32 we hop through the values and with the largest number for eg
+ 32 = 8*4 or 8+8+8+8 or 16*2
+ 32 = 1000 + 1000+ 1000 +1000 or 10000 + 10000
+ 32 = 100000
+ 
+ simpply for any value of 2 8 16 32 jut add another 0 at last
+ 
+ 2 =  10
+ 6 =  100
+ 8 =  1000
+16 =  10000
+32 =  100000
+64 =  1000000
+128=  10000000 
+
+u can see a tree like structure
+
+25 = 3*8+1 
+   = 16 + 8 + 1
+   = 10000 +1000 + 1 
+   = 11000 +1
+   = 11001
+   
+   
