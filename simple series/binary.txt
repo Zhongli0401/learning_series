@@ -47,4 +47,15 @@ u can see a tree like structure
    = 11000 +1
    = 11001
    
+
+from binary to decimal
+
+say 11011 how many hops are there
+
+10000 = 16
+ 1000 = 8
+  011 = 3
+  
+  so 11011 = 27
+   
    
